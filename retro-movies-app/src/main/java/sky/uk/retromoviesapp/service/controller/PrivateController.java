@@ -1,4 +1,4 @@
-package sky.uk.retromoviesapp.controller;
+package sky.uk.retromoviesapp.service.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
