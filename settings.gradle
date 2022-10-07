@@ -1,2 +1,4 @@
 rootProject.name = 'retro-movies'
+include 'retro-movies-app'
+include 'functional'
 
